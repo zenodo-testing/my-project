@@ -1,2 +1,2 @@
 # my-project
-Testing Github/Zenodo integration
+Testing Github/Zenodo integration.
